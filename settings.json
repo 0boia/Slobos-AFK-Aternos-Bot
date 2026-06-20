@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "0boia-qf8D.aternos.me",
+    "ip": "0boia-qf8D.aternos.me:44511",
     "port": 44511,
     "version": "",
     "try-creative": false
